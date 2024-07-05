@@ -4,10 +4,10 @@ Module 15 Challenge
 ![1-Logo](https://github.com/KrissinaW/leaflet-challenge/assets/162597320/2595e1a1-4347-4088-a711-463b3c607521)
 
 
+## Description
+This project is a solution to the Module 15 Challenge, where the goal is to create visualizations for earthquake data provided by the United States Geological Survey (USGS). The visualizations help to educate the public and government organizations about natural hazards, ecosystem health, and the impacts of climate and land-use change.
+
 [Earthquake Visualization](https://KrissinaW.github.io/leaflet-challenge/)
-
-
-# Leaflet Challenge
 
 ## Background
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment, and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
