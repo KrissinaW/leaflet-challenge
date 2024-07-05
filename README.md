@@ -4,7 +4,7 @@ Module 15 Challenge
 ![1-Logo](https://github.com/KrissinaW/leaflet-challenge/assets/162597320/2595e1a1-4347-4088-a711-463b3c607521)
 
 
-[Project Page](https://KrissinaW.github.io/leaflet-challenge/)
+[Earthquake Visualization](https://KrissinaW.github.io/leaflet-challenge/)
 
 
 # Leaflet Challenge
